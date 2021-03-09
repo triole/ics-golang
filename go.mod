@@ -1,8 +1,8 @@
 module github.com/triole/ics-golang
 
-go 1.13
+go 1.16
 
 require (
 	github.com/channelmeter/iso8601duration v0.0.0-20150204201828-8da3af7a2a61
-	github.com/stretchr/testify v1.4.0 // indirect
+	github.com/stretchr/testify v1.7.0 // indirect
 )
