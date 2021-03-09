@@ -1,4 +1,4 @@
-module github.com/PuloV/ics-golang
+module github.com/triole/ics-golang
 
 go 1.13
 
